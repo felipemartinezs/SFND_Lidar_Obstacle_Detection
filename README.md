@@ -1,7 +1,7 @@
 # Sensor Fusion Self-Driving Car Course
 
-![Image]("media/ObstacleDetectionFPS.gif")
-![Test Image 3](/3DTest.png)
+![Image]("/media/ObstacleDetectionFPS.gif")
+
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
